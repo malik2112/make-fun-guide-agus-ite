@@ -69,6 +69,14 @@ become entrants themselves — and a share of what they win comes back to you.
 Do both, and each one makes the other stronger. Do only one, and you leave
 half the money on the table.
 
+A realistic first month, to set expectations honestly: week one, you enter
+one free bounty and publish one guide. Week two, you share the guide in two
+places where builders gather and enter a second bounty. By week four you
+will know, from the Referrals tab, whether your guide brings signups — and
+from `status`, whether your entries place. Most people earn nothing in week
+one. The ones who keep going are the ones who treat it as a loop — build,
+share, measure, repeat — instead of a lottery ticket.
+
 ## What you need
 
 - **An AI coding agent.** Claude Code, Codex, Cursor, GitHub Copilot,
